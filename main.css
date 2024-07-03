@@ -1,0 +1,108 @@
+body {
+    background-image: url(https://kalix.club/uploads/posts/2023-12/1702924478_kalix-club-p-fon-spa-krasivo-foni-1.jpg);
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #f8e4f0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #c2bebe;
+}
+
+article {
+    margin-top: 55px;
+    width: 1200px;
+    margin: 55px auto 25px;
+    background-color: #f8e4f0;
+    border: 3px solid #c2bebe;
+    text-align: center;
+}
+
+article img {
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+}
+
+article h2 {
+    background-color:#f8cbe6;
+    padding: 30px 30px;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#welcome {
+    font-size: 55px;
+}
+
+#enterlk {
+    position: absolute;
+    right: 10px; 
+    top:30px;
+    font-size: 30px;
+}
+
+#name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+form {
+    background-color: #f8e4f0;
+    margin-top: 75px;
+    border: 3px solid #c2bebe;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+  }
+  
+  input[type=text], input[type=password], input[type=date] {
+    width: 150px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    margin: auto;
+    display: block;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+ 
+  .container {
+    padding: 16px;
+  }
+
+   #message {
+    margin-top: 15px;
+    background-color: rgb(248, 12, 71);
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  p {
+    font-size: 35px;
+  }
+  
